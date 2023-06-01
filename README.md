@@ -1,6 +1,8 @@
-# spice_shack
+## Spice Shack
 
-A new Flutter project.
+After uploading android app on playstore code.
+playstore app is live till now.
+app store is remaining.
 
 ## Getting Started
 
